@@ -1,6 +1,6 @@
 ## Projeto Número Sorteado
 
-O projeto foi feito com o professor Guilherme Lira da Alura.
+O projeto foi feito com o professor Guilherme Lima da Alura.
 
 O curso feito é o "JavaScript: validações e reconhecimento de voz".
 
@@ -10,10 +10,6 @@ Mais sobre o Web Speech: https://wicg.github.io/speech-api/#speechreco-section o
 
 A aplicação foi aplicada conforme a autora achou melhor.
 
-Mudanças:
-    - Troca do background, font-size e color;
-    - Adicionei o h2 para habilitar o microfone com a cor vermelha e em negrito;
-    - Organização em pastas do projeto;
-    - Icon no site pego no favicon.ico.
+Mudanças: adicionando icon, organização em pastas, adicionando e trocando informações etc.
 
 -> Curso finalizado em 30/01/2022.
